@@ -1,4 +1,4 @@
-state_name,state_abbreviation,county_name,county_fips_code,studyyear,female_unemployed_rate,male_unemployed_rate,2022_med_household_inc,population,poverty_rate,1_bread_winner_hh,2_bread_winner_hh,avg_centrebased_care_price,avg_family_childcare_price
+state_name,state_abbreviation,county_name,county_fips_code,studyyear,female_unemployed_rate,male_unemployed_rate,2022_med_household_inc,population,poverty_rate,1_breadwinner_hh,2_breadwinners_hh,avg_centrebased_care_price,avg_family_childcare_price
 Alabama,AL,Autauga County,1001,2018,3.4,4.9,69367,55200,15.4,6127,5523,112.34636363636365,111.30363636363637
 Alabama,AL,Autauga County,1001,2019,3.2,4.1,68128,55380,15.2,5686,5630,117.38818181818179,116.05
 Alabama,AL,Autauga County,1001,2020,2.4,3.3,66679,55639,15.2,5773,5135,122.42181818181817,120.79999999999997
